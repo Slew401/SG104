@@ -1,0 +1,15 @@
+C:\Users\S-Lew\source\repos\DaysAndWekks\DaysAndWekks\bin\Debug\net6.0\DaysAndWekks.exe
+C:\Users\S-Lew\source\repos\DaysAndWekks\DaysAndWekks\bin\Debug\net6.0\DaysAndWekks.deps.json
+C:\Users\S-Lew\source\repos\DaysAndWekks\DaysAndWekks\bin\Debug\net6.0\DaysAndWekks.runtimeconfig.json
+C:\Users\S-Lew\source\repos\DaysAndWekks\DaysAndWekks\bin\Debug\net6.0\DaysAndWekks.dll
+C:\Users\S-Lew\source\repos\DaysAndWekks\DaysAndWekks\bin\Debug\net6.0\DaysAndWekks.pdb
+C:\Users\S-Lew\source\repos\DaysAndWekks\DaysAndWekks\obj\Debug\net6.0\DaysAndWekks.csproj.AssemblyReference.cache
+C:\Users\S-Lew\source\repos\DaysAndWekks\DaysAndWekks\obj\Debug\net6.0\DaysAndWekks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S-Lew\source\repos\DaysAndWekks\DaysAndWekks\obj\Debug\net6.0\DaysAndWekks.AssemblyInfoInputs.cache
+C:\Users\S-Lew\source\repos\DaysAndWekks\DaysAndWekks\obj\Debug\net6.0\DaysAndWekks.AssemblyInfo.cs
+C:\Users\S-Lew\source\repos\DaysAndWekks\DaysAndWekks\obj\Debug\net6.0\DaysAndWekks.csproj.CoreCompileInputs.cache
+C:\Users\S-Lew\source\repos\DaysAndWekks\DaysAndWekks\obj\Debug\net6.0\DaysAndWekks.dll
+C:\Users\S-Lew\source\repos\DaysAndWekks\DaysAndWekks\obj\Debug\net6.0\refint\DaysAndWekks.dll
+C:\Users\S-Lew\source\repos\DaysAndWekks\DaysAndWekks\obj\Debug\net6.0\DaysAndWekks.pdb
+C:\Users\S-Lew\source\repos\DaysAndWekks\DaysAndWekks\obj\Debug\net6.0\DaysAndWekks.genruntimeconfig.cache
+C:\Users\S-Lew\source\repos\DaysAndWekks\DaysAndWekks\obj\Debug\net6.0\ref\DaysAndWekks.dll

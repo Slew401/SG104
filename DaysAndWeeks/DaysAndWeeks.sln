@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DaysAndWeeks", "DaysAndWekks\DaysAndWeeks.csproj", "{AFDB3D80-F1A5-415E-BA2F-DC4E1E23CC2A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeeksAndDaysTests", "WeeksAndDaysTests\WeeksAndDaysTests.csproj", "{56900C5B-1828-4CDB-836C-61C2366AC4B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFDB3D80-F1A5-415E-BA2F-DC4E1E23CC2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFDB3D80-F1A5-415E-BA2F-DC4E1E23CC2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFDB3D80-F1A5-415E-BA2F-DC4E1E23CC2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFDB3D80-F1A5-415E-BA2F-DC4E1E23CC2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56900C5B-1828-4CDB-836C-61C2366AC4B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56900C5B-1828-4CDB-836C-61C2366AC4B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56900C5B-1828-4CDB-836C-61C2366AC4B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56900C5B-1828-4CDB-836C-61C2366AC4B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CB56BAA-6E00-468D-BFC6-E32D78E83F8C}
+	EndGlobalSection
+EndGlobal
