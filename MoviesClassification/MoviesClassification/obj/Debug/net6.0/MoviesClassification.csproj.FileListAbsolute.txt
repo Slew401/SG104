@@ -1,0 +1,15 @@
+C:\Users\S-Lew\source\repos\MoviesClassification\MoviesClassification\bin\Debug\net6.0\MoviesClassification.exe
+C:\Users\S-Lew\source\repos\MoviesClassification\MoviesClassification\bin\Debug\net6.0\MoviesClassification.deps.json
+C:\Users\S-Lew\source\repos\MoviesClassification\MoviesClassification\bin\Debug\net6.0\MoviesClassification.runtimeconfig.json
+C:\Users\S-Lew\source\repos\MoviesClassification\MoviesClassification\bin\Debug\net6.0\MoviesClassification.dll
+C:\Users\S-Lew\source\repos\MoviesClassification\MoviesClassification\bin\Debug\net6.0\MoviesClassification.pdb
+C:\Users\S-Lew\source\repos\MoviesClassification\MoviesClassification\obj\Debug\net6.0\MoviesClassification.csproj.AssemblyReference.cache
+C:\Users\S-Lew\source\repos\MoviesClassification\MoviesClassification\obj\Debug\net6.0\MoviesClassification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S-Lew\source\repos\MoviesClassification\MoviesClassification\obj\Debug\net6.0\MoviesClassification.AssemblyInfoInputs.cache
+C:\Users\S-Lew\source\repos\MoviesClassification\MoviesClassification\obj\Debug\net6.0\MoviesClassification.AssemblyInfo.cs
+C:\Users\S-Lew\source\repos\MoviesClassification\MoviesClassification\obj\Debug\net6.0\MoviesClassification.csproj.CoreCompileInputs.cache
+C:\Users\S-Lew\source\repos\MoviesClassification\MoviesClassification\obj\Debug\net6.0\MoviesClassification.dll
+C:\Users\S-Lew\source\repos\MoviesClassification\MoviesClassification\obj\Debug\net6.0\refint\MoviesClassification.dll
+C:\Users\S-Lew\source\repos\MoviesClassification\MoviesClassification\obj\Debug\net6.0\MoviesClassification.pdb
+C:\Users\S-Lew\source\repos\MoviesClassification\MoviesClassification\obj\Debug\net6.0\MoviesClassification.genruntimeconfig.cache
+C:\Users\S-Lew\source\repos\MoviesClassification\MoviesClassification\obj\Debug\net6.0\ref\MoviesClassification.dll

@@ -1,0 +1,15 @@
+C:\Users\S-Lew\source\repos\VowelsInAString\VowelsInAString\bin\Debug\net6.0\VowelsInAString.exe
+C:\Users\S-Lew\source\repos\VowelsInAString\VowelsInAString\bin\Debug\net6.0\VowelsInAString.deps.json
+C:\Users\S-Lew\source\repos\VowelsInAString\VowelsInAString\bin\Debug\net6.0\VowelsInAString.runtimeconfig.json
+C:\Users\S-Lew\source\repos\VowelsInAString\VowelsInAString\bin\Debug\net6.0\VowelsInAString.dll
+C:\Users\S-Lew\source\repos\VowelsInAString\VowelsInAString\bin\Debug\net6.0\VowelsInAString.pdb
+C:\Users\S-Lew\source\repos\VowelsInAString\VowelsInAString\obj\Debug\net6.0\VowelsInAString.csproj.AssemblyReference.cache
+C:\Users\S-Lew\source\repos\VowelsInAString\VowelsInAString\obj\Debug\net6.0\VowelsInAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S-Lew\source\repos\VowelsInAString\VowelsInAString\obj\Debug\net6.0\VowelsInAString.AssemblyInfoInputs.cache
+C:\Users\S-Lew\source\repos\VowelsInAString\VowelsInAString\obj\Debug\net6.0\VowelsInAString.AssemblyInfo.cs
+C:\Users\S-Lew\source\repos\VowelsInAString\VowelsInAString\obj\Debug\net6.0\VowelsInAString.csproj.CoreCompileInputs.cache
+C:\Users\S-Lew\source\repos\VowelsInAString\VowelsInAString\obj\Debug\net6.0\VowelsInAString.dll
+C:\Users\S-Lew\source\repos\VowelsInAString\VowelsInAString\obj\Debug\net6.0\refint\VowelsInAString.dll
+C:\Users\S-Lew\source\repos\VowelsInAString\VowelsInAString\obj\Debug\net6.0\VowelsInAString.pdb
+C:\Users\S-Lew\source\repos\VowelsInAString\VowelsInAString\obj\Debug\net6.0\VowelsInAString.genruntimeconfig.cache
+C:\Users\S-Lew\source\repos\VowelsInAString\VowelsInAString\obj\Debug\net6.0\ref\VowelsInAString.dll

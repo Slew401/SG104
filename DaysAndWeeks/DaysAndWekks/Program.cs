@@ -4,7 +4,7 @@ public class WeeksAndDays
 {   
     public static void Main(string[] args)
     {
-        Console.WriteLine(DaysAndWeeks(8)); 
+        Console.WriteLine(DaysAndWeeks(13)); 
     }
     public static string DaysAndWeeks(int days)
     {
