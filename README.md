@@ -1,6 +1,6 @@
 # Sparta Global Eng 104 Project and Exercise Repo
 
-## Current Code Katas
+## Code Katas
 
 1. Vowels in a String + NUnit Tests
 2. Days and Weeks + NUnit Tests
