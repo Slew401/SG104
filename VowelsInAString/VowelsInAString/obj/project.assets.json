@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\S-Lew\\source\\repos\\VowelsInAString\\VowelsInAString\\VowelsInAString.csproj",
+      "projectUniqueName": "C:\\Users\\S-Lew\\Source\\Repos\\SG104\\VowelsInAString\\VowelsInAString\\VowelsInAString.csproj",
       "projectName": "VowelsInAString",
-      "projectPath": "C:\\Users\\S-Lew\\source\\repos\\VowelsInAString\\VowelsInAString\\VowelsInAString.csproj",
+      "projectPath": "C:\\Users\\S-Lew\\Source\\Repos\\SG104\\VowelsInAString\\VowelsInAString\\VowelsInAString.csproj",
       "packagesPath": "C:\\Users\\S-Lew\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\S-Lew\\source\\repos\\VowelsInAString\\VowelsInAString\\obj\\",
+      "outputPath": "C:\\Users\\S-Lew\\Source\\Repos\\SG104\\VowelsInAString\\VowelsInAString\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\S-Lew\\AppData\\Roaming\\NuGet\\NuGet.Config",
